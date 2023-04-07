@@ -9,3 +9,5 @@ A Spring Boot and Angular CRUD project involves creating a web application that 
 The project begins by setting up a Spring Boot application that includes dependencies for Spring Data JPA and H2 database. Spring Data JPA simplifies database access by providing a repository layer for CRUD operations. H2 is an in-memory database that allows for easy development and testing.
 
 Next, an Angular application is created that communicates with the Spring Boot backend through RESTful APIs. Angular components are created for each CRUD operation, allowing users to interact with the data through forms and tables.
+
+<a href="https://www.youtube.com/watch?v=Y5Q2LkW8lTw&list=PLZTETldyguF0ogvkEzN-p6b73dXgCBhn9&ab_channel=LearnProgrammingYourself">Took Help</a>
